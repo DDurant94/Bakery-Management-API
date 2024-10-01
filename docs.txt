@@ -6,6 +6,9 @@ About:
     To interact with this database, create a database and schema in MySQL Workbench. Then, add your password and database name to app.py, run 
   the application, and visit the Postman link provided in the README.md to add your information.
 
+PIP Install:
+(pip install Flask Flask-Script Flask-SQLAlchemy Flask-GraphQL graphene graphene-sqlalchemy PyMySQL cryptography)
+
 Questions:
   Building a Bakery Inventory Management GraphQL API
   Objective: The objective of this assignment is to develop a GraphQL API for managing inventory data of a bakery. 
